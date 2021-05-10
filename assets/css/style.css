@@ -86,20 +86,20 @@ p {
     background-color: #2589bd;
 }
 
-/*create style for the benefits section*/
-.benefits {
+/*create style for the benefits-secondary section*/
+.benefits-secondary {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*create style for the benefits <h3> section*/
-.benefits h3 {
+/*create style for the benefits-secondary <h3> section*/
+.benefits-secondary h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*create style for the benefits <image> section*/
-.benefits img{
+/*create style for the benefits-secondary <img> section*/
+.benefits-secondary img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
