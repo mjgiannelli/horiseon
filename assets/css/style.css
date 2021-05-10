@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* apply style to <body> */
 body {
     background-color: #d9dcd6;
 }
 
+/*apply style to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/*apply style to <header> <h1> */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*apply style to <header> <h1> <seo> */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*apply style to <header> <nav> */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
+/*apply style to <header> <nav> <ul> */
 .header nav ul {
     list-style-type: none;
 }
 
+/*apply style to <header> <nav> <ul> <li> */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*apply style to <a> */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*apply style to <p> */
 p {
     font-size: 16px;
 }
 
+/*apply style to hero/background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +69,26 @@ p {
     background-position: center;
 }
 
+/* create class to float items needed left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* create class to float items needed right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*create style for the content section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*create style for the benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,6 +140,7 @@ p {
     font-size: 36px;
 }
 
+/*apply style for <footer>*/
 .footer {
     padding: 30px;
     clear: both;
@@ -133,6 +148,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*apply style for <footer> <h4>*/
+.footer h4 {
     font-size: 20px;
 }
