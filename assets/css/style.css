@@ -88,6 +88,35 @@ p {
     margin-left: 20px;
 }
 
+/*create style for the content-secondary section*/
+.content-secondary {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/*create style for the benefits-secondary <img> section*/
+.content-secondary img {
+    max-height: 200px;
+}
+
+/*create style for the benefits-secondary <h2> section*/
+.content-secondary h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*apply style for <footer>*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 /*create style for the benefits section*/
 .benefits {
     margin-right: 20px;
@@ -119,34 +148,6 @@ p {
     max-width: 150px;
 }
 
-/*create style for the content-secondary section*/
-.content-secondary {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*create style for the benefits-secondary <img> section*/
-.content-secondary img {
-    max-height: 200px;
-}
-
-/*create style for the benefits-secondary <h2> section*/
-.content-secondary h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*apply style for <footer>*/
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
 
 /*apply style for <footer> <h4>*/
 .footer h4 {
