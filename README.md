@@ -11,4 +11,4 @@
 ![Horiseon Website](assets/images/horiseon-website.png)
 
 ## Link to Horiseon Website
-[Horiseon Website](https://mjgiannelli.github.io/challenge-1-horiseon-accessibility-correction/)
+[Horiseon Website](https://mjgiannelli.github.io/horiseon/)
